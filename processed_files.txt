@@ -1,0 +1,8 @@
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_registrar-specific-database.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_date-specific-database.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_tld-specific-database.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_whois-proxies-removed.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_full-database.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-16_country-specific-database.zip
+/home/sachin/Programming/Python/fiverr-bhavik/2021-11-14.zip
